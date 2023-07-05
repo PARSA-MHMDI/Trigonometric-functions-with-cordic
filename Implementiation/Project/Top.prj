@@ -1,0 +1,4 @@
+vhdl work "ipcore_dir/arctan.vhd"
+vhdl work "ipcore_dir/hyperbolic.vhd"
+vhdl work "MUX_2X1.vhd"
+vhdl work "Top.vhd"

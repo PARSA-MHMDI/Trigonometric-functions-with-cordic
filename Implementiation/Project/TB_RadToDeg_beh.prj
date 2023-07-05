@@ -1,0 +1,2 @@
+vhdl work "RadToDeg.vhd"
+vhdl work "TB_RadToDeg.vhd"

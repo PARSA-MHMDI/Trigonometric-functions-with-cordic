@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Study/AUT/Term6/Computer Architecture/Bounes - Project/Implementiation/Project/TB_TOP_isim_beh.exe" -prj "D:/Study/AUT/Term6/Computer Architecture/Bounes - Project/Implementiation/Project/TB_TOP_beh.prj" "work.TB_TOP" 

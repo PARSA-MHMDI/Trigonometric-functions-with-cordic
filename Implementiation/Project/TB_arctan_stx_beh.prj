@@ -1,0 +1,2 @@
+vhdl isim_temp "ipcore_dir/arctan.vhd"
+vhdl isim_temp "TB_arctan.vhd"

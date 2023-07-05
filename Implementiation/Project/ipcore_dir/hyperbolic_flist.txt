@@ -1,0 +1,15 @@
+# Output products list for <hyperbolic>
+_xmsgs\pn_parser.xmsgs
+hyperbolic.asy
+hyperbolic.gise
+hyperbolic.ngc
+hyperbolic.sym
+hyperbolic.vhd
+hyperbolic.vho
+hyperbolic.xco
+hyperbolic.xise
+hyperbolic\doc\cordic_ds249.pdf
+hyperbolic\doc\cordic_v4_0_vinfo.html
+hyperbolic_flist.txt
+hyperbolic_readme.txt
+hyperbolic_xmdf.tcl
